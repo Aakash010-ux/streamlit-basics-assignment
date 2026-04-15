@@ -1,1 +1,1 @@
-# streamlit-basics-assignment
+This is a simple Streamlit app to filter and visualize sales data by category.
